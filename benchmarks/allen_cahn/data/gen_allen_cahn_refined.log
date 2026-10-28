@@ -1,0 +1,14 @@
+production run N=32704, dt=5e-06
+  reusing stored solve ac_N32704_dt5e-6.npz
+saved allen_cahn_refined.mat (201x512) and allen_cahn_refined_hires.mat (201x32705)
+rel L2 (original allen_cahn.mat vs refined) = 1.170e-05  <- the OLD file's error
+certification run N=65408, dt=5e-06
+  reusing stored solve ac_N65408_dt5e-6.npz
+rel L2 (saved 32704-mode file vs 65408-mode run): 2.261e-09 on the 32704-grid, 2.666e-09 on the 512 evaluation grid
+  share of squared error: t<0.025 66%, 0.025-0.1 29%, 0.1-0.3 5%, >0.3 0%; |x|>0.9: 100%; max|diff| 3.55e-07
+convergence vs the 65408-mode run (512 evaluation grid):
+  N=   511: 1.170e-05
+  N= 16352: 1.333e-08
+  N= 32704: 2.666e-09
+  observed order 16352->32704: p = 2.32; Richardson estimate of the saved file's error: 6.7e-10, of the certification run: 1.3e-10
+=> accuracy of the saved refined reference is at or below the certification distance.

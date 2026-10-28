@@ -1,0 +1,15 @@
+PINNPipe
+Copyright 2026 The PINNPipe Authors
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes software and data adapted from jaxpi
+(https://github.com/PredictiveIntelligenceLab/jaxpi), licensed under the Apache
+License, Version 2.0: the network architectures in pinnpipe/archs.py, and the
+reference data and Chebfun generation scripts in benchmarks/kdv/data,
+benchmarks/ks_chaotic/data, benchmarks/ginzburg_landau/data and
+benchmarks/rayleigh_taylor/data.
+
+pinnpipe/soap.py is adapted from SOAP_JAX (https://github.com/haydn-jones/SOAP_JAX),
+Copyright (c) 2024 Haydn Jones, licensed under the MIT License; the license text
+is reproduced in that file.

@@ -1,0 +1,21 @@
+--- 192x384 ---
+  IC snap 5 (t=1.26) -> t=1.51: relL2(T)=4.999e-05  relL2(u)=8.343e-04  relL2(v)=8.612e-04  [persistence T: 2.21e-02]
+  IC snap 5 (t=1.26) -> t=1.76: relL2(T)=1.109e-04  relL2(u)=1.820e-03  relL2(v)=1.282e-03  [persistence T: 4.45e-02]
+  IC snap 15 (t=3.76) -> t=4.01: relL2(T)=2.410e-03  relL2(u)=1.727e-03  relL2(v)=1.005e-03  [persistence T: 1.67e-01]
+  IC snap 15 (t=3.76) -> t=4.26: relL2(T)=3.602e-03  relL2(u)=2.610e-03  relL2(v)=1.769e-03  [persistence T: 3.18e-01]
+  IC snap 30 (t=7.51) -> t=7.76: relL2(T)=1.577e-03  relL2(u)=5.738e-03  relL2(v)=3.799e-03  [persistence T: 1.81e-01]
+  IC snap 30 (t=7.51) -> t=8.01: relL2(T)=2.407e-03  relL2(u)=6.909e-03  relL2(v)=5.156e-03  [persistence T: 3.21e-01]
+--- 384x768 ---
+  IC snap 5 (t=1.26) -> t=1.51: relL2(T)=5.229e-05  relL2(u)=8.985e-04  relL2(v)=8.806e-04  [persistence T: 2.21e-02]
+  IC snap 5 (t=1.26) -> t=1.76: relL2(T)=1.187e-04  relL2(u)=1.953e-03  relL2(v)=1.329e-03  [persistence T: 4.45e-02]
+  IC snap 15 (t=3.76) -> t=4.01: relL2(T)=2.715e-03  relL2(u)=1.908e-03  relL2(v)=1.141e-03  [persistence T: 1.67e-01]
+  IC snap 15 (t=3.76) -> t=4.26: relL2(T)=4.094e-03  relL2(u)=2.909e-03  relL2(v)=2.017e-03  [persistence T: 3.18e-01]
+  IC snap 30 (t=7.51) -> t=7.76: relL2(T)=1.831e-03  relL2(u)=4.688e-03  relL2(v)=3.870e-03  [persistence T: 1.81e-01]
+  IC snap 30 (t=7.51) -> t=8.01: relL2(T)=2.765e-03  relL2(u)=5.610e-03  relL2(v)=5.200e-03  [persistence T: 3.21e-01]
+--- 512x1024 ---
+  IC snap 5 (t=1.26) -> t=1.51: relL2(T)=5.310e-05  relL2(u)=9.081e-04  relL2(v)=8.835e-04  [persistence T: 2.21e-02]
+  IC snap 5 (t=1.26) -> t=1.76: relL2(T)=1.204e-04  relL2(u)=1.972e-03  relL2(v)=1.336e-03  [persistence T: 4.45e-02]
+  IC snap 15 (t=3.76) -> t=4.01: relL2(T)=2.760e-03  relL2(u)=1.935e-03  relL2(v)=1.161e-03  [persistence T: 1.67e-01]
+  IC snap 15 (t=3.76) -> t=4.26: relL2(T)=4.166e-03  relL2(u)=2.954e-03  relL2(v)=2.053e-03  [persistence T: 3.18e-01]
+  IC snap 30 (t=7.51) -> t=7.76: relL2(T)=1.875e-03  relL2(u)=4.716e-03  relL2(v)=3.899e-03  [persistence T: 1.81e-01]
+  IC snap 30 (t=7.51) -> t=8.01: relL2(T)=2.825e-03  relL2(u)=5.601e-03  relL2(v)=5.229e-03  [persistence T: 3.21e-01]

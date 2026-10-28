@@ -1,0 +1,14 @@
+# Install the JAX build for your accelerator (CUDA/TPU) before these requirements;
+# the plain jax/jaxlib entries below give a CPU installation.
+chex
+flax
+jax
+jaxlib
+jaxtyping
+matplotlib
+ml-collections
+numpy
+optax
+scipy
+tabulate
+wandb

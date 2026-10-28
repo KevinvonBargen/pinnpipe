@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# experiment outputs
+wandb/
+logs/
+*.out
+benchmarks/*/*/ckpt/
+benchmarks/*/*/final_predictions.npz
+benchmarks/*/figures/
+
+# large regenerable reference files (see benchmarks/*/data/README_refined.md)
+*_hires.mat
